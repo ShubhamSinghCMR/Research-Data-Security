@@ -1,4 +1,4 @@
-# Research Work - Data Security
+# Research - Data Security
 
 A research-focused repository containing implementations, experimental code, and supporting materials related to **data security and integrity verification** in distributed and cloud-based systems.
 
